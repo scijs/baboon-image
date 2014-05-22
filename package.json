@@ -1,0 +1,34 @@
+{
+  "name": "baboon-image",
+  "version": "1.0.0",
+  "description": "The baboon test image",
+  "main": "baboon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "ndpack-image baboon.png > baboon.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/baboon-image.git"
+  },
+  "keywords": [
+    "baboon",
+    "mandrill",
+    "test",
+    "image",
+    "mandril",
+    "ndarray"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikolalysenko/baboon-image/issues"
+  },
+  "homepage": "https://github.com/mikolalysenko/baboon-image",
+  "dependencies": {
+    "ndpack-image": "^1.0.0"
+  },
+  "devDependencies": {
+    "ndarray-imshow": "^1.0.0"
+  }
+}
