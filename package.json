@@ -1,6 +1,6 @@
 {
   "name": "baboon-image",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The baboon test image",
   "main": "baboon.js",
   "scripts": {
