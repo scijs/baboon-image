@@ -1,6 +1,6 @@
 {
   "name": "baboon-image",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "The baboon test image",
   "main": "baboon.js",
   "scripts": {
@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/mikolalysenko/baboon-image",
   "dependencies": {
-    "ndpack-image": "^1.0.0"
+    "ndpack-image": "^2.0.0"
   },
   "devDependencies": {
     "ndarray-imshow": "^1.0.0"
