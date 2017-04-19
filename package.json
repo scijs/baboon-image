@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/mikolalysenko/baboon-image",
   "dependencies": {
-    "ndpack-image": "^2.0.0"
+    "ndpack-image": "^3.0.0"
   },
   "devDependencies": {
     "ndarray-imshow": "^1.0.0"
