@@ -1,4 +1,4 @@
-baboon-image
+baboon-image [![Build Status](https://travis-ci.org/scijs/baboon-image.svg)](https://travis-ci.org/scijs/baboon-image) [![npm version](https://badge.fury.io/js/baboon-image.svg)](https://badge.fury.io/js/baboon-image)
 ============
 The baboon/mandrill test image exposed as an ndarray
 
