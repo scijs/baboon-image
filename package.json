@@ -4,7 +4,7 @@
   "description": "The baboon test image",
   "main": "baboon.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "node test.js",
     "build": "ndpack-image baboon.png > baboon.js"
   },
   "repository": {
@@ -29,6 +29,7 @@
     "ndpack-image": "^2.0.0"
   },
   "devDependencies": {
-    "ndarray-imshow": "^1.0.0"
+    "ndarray-imshow": "^1.0.0",
+    "tape": "^4.6.3"
   }
 }
